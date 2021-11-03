@@ -35,7 +35,7 @@ namespace Basketball_Quiz
             btnStartQuiz.Text = "";
             btnStartQuiz.BackgroundImage = Image.FromFile("NBA.jpg");
             btnStartQuiz.Click += new EventHandler(this.btnStartQuiz_Click);
-            //this.btnStartQuizFake.Visible = false;
+            this.btnStartQuizFake.Visible = false;
         }
 
         void btnStartQuiz_Click(object sender, EventArgs e)
