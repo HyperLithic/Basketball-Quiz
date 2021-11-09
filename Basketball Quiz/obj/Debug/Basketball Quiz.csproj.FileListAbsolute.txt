@@ -1,0 +1,10 @@
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\bin\Debug\Basketball Quiz.exe.config
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\bin\Debug\Basketball Quiz.exe
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\bin\Debug\Basketball Quiz.pdb
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\obj\Debug\Basketball Quiz.csprojAssemblyReference.cache
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\obj\Debug\Basketball_Quiz.Form1.resources
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\obj\Debug\Basketball_Quiz.Properties.Resources.resources
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\obj\Debug\Basketball Quiz.csproj.GenerateResource.cache
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\obj\Debug\Basketball Quiz.exe
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\obj\Debug\Basketball Quiz.pdb
+C:\Users\17073\OneDrive - Bayfield High School\Programming assessment\Basketball Quiz\Basketball Quiz\obj\Debug\Basketball_Quiz.QuestionOne.resources
